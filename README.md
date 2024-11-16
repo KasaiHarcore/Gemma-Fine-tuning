@@ -1,2 +1,2 @@
 # Gemma-Fine-tuning
-Gemma 2 on Cultural Language Understanding
+Coming soon! Still working in progress :>
